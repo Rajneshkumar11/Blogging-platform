@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tandc.xsl"?>
+<tandc>
+	<heading>
+	<topic>Terms and Conditions</topic>
+	</heading>
+	<termandcond>
+		<topic>Your TheBlogStarter.com Account and Site:</topic>
+		<subtopic>If you create a blog/site on the Website, you are responsible for maintaining the security of your account and blog, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the blog. </subtopic>
+	</termandcond>
+	<termandcond>
+		<topic>Responsibility of Contributors:</topic>
+		<subtopic>If you operate a blog, comment on a blog, post material to the Website, post links on the Website, or otherwise make (or allow any third party to make) material available by means of the Website (any such material, “Content”), You are entirely responsible for the content of, and any harm resulting from, that Content. </subtopic>
+	</termandcond>
+	<termandcond>
+		<topic>Payment and Renewal:</topic>
+		<subtopic>By selecting a product or service, you agree to pay The Blog Starter the one-time and/or monthly or annual subscription fees indicated (additional payment terms may be included in other communications). </subtopic>
+	</termandcond>
+	<termandcond>
+		<topic>Responsibility of Website Visitors:</topic>
+		<subtopic>The Blog Starter has not reviewed, and cannot review, all of the material, including computer software, posted to the Website, and cannot therefore be responsible for that material’s content, use or effects.</subtopic>
+	</termandcond>
+	<url>Home</url>
+</tandc>

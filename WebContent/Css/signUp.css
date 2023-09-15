@@ -1,0 +1,32 @@
+﻿@import "back.css";
+{box-sizing: border-box}
+
+body {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+section {
+  height: 100vh;
+}
+div{
+	display:block;
+	text-align:center;
+}
+label{
+	align:top-left;
+}
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  opacity: 0.9;
+}
+.text{
+    color:white;
+}

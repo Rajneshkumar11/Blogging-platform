@@ -1,0 +1,63 @@
+@import "back.css";
+
+.wblog{
+	width: 70%;
+	height: 300px;
+	margin-left: 50px;
+	margin-top : -10px;
+	padding: 20px 30px;
+	display: flex;
+}
+
+.blog {
+	size: 5px;
+	width: 70%;
+	height: 300px;
+	padding: 10px 20px;
+	background:rgba(255,255,255,0.9); 
+	border-radius: 5px;
+	font-size: 25px;
+}
+
+input[type=text]{
+	margin-top: 20px;
+	margin-left: 80px;
+	width: 50%;
+	padding: 15px;
+  	display: inline-block;
+	border: none;
+  	background: #f1f1f1
+}
+
+select{
+	margin-top: 20px;
+	margin-left: 80px;
+	width: 10%;
+	padding: 10px;
+  	display: inline-block;
+	border: none;
+  	background: #f1f1f1
+}
+
+.active{
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.subButton {
+  background-color: #4CAF50;
+  color: white;
+  margin: 20px 20px;
+  float: left;
+  margin-left: 80px;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  width: 100px;
+  height: 40px;
+}
+[contenteditable=true]:empty:before{
+  content: attr(placeholder);
+  pointer-events: none;
+  display: block; /* For Firefox */
+}

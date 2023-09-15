@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.type {
+  background-color: lightblue;
+  color: black;
+  padding: 20px;
+  text-align: center;
+} 
+
+.btn-two {
+  background-color: black;
+  border: 10px solid white ;
+  color: white;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+section {
+  height: 100vh;
+}
+
+
+.logo-container , .nav-links {
+    display: flex;
+}
+
+.logo-container{
+    flex: 1;
+}
+
+nav{
+    flex: 2;
+}
+
+.nav-links{
+    justify-content: space-around;
+    list-style: none;
+
+}
+
+.nav-link{
+    text-decoration: none;
+    font-size:22px;
+    margin: auto;
+    color: #000;
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid black;
+}
+
+.logo{
+    font-size: 25px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: auto;All
+}
+
+.logo-container img{
+    height: 120px;
+    width: 160px;
+}
+
+.presentation , .spec_main{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    min-height: 80vh;
+    align-items: center;
+}
+
+
+
+
+
+.introduction{
+    flex: 1;
+}
+
+.intro-text h1{
+    font-size: 90px;
+    font-weight: 40%;
+    letter-spacing: 3px;
+    background: linear-gradient(to right , #000 ,#FFF);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+
+.intro-text p{
+    margin-top: 10px;
+    font-size: 35px;
+    letter-spacing: 1.5px;
+}
+
+.cover{
+    flex: 0.5;
+}
+
+.cover img{
+	border:5px solid #111;
+    height: 50vh;
+    
+}
+
+.btn {
+    padding: 50px 0px 0px 0px;
+}
+
+.btn-explore {
+    border: 2px solid #111;
+    background-color: white;
+    color: #111;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.btn-explore:hover{
+    border: 2px solid #FFF;
+    background-color: #000;
+    color: #FFF;
+    transition: ease 0.5s;
+}
+
+#logo {
+	position : absolute;
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    z-index: 3;
+    background: rgba(1,1,1,0.80);
+    color: white;
+    border-radius: 25px;
+    border: 3px solid #f1f1f1;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    visibility:hidden;
+}
+
+.subButton {
+  background-color: #4CAF50;
+  color: white;
+  margin: 20px 20px;
+  float: left;
+  margin-left: 50px;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  width: 100px;
+  height: 40px;
+}
+

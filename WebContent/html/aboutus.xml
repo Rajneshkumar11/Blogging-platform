@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="aboutus.xsl"?>
+<aboutus>
+	<topic>
+		<heading>Welcome to My Blog, Where words matter.</heading>
+		<content>My Blog is a blogging website which allows the writers express their thoughts about topic and any reader to view, comment or suggest something to writer</content>
+	</topic>
+	<topic>
+		<heading>Ideas and perspectives you won’t find anywhere else.</heading>
+		<content>My Blog taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter. So whatever your interest, you can always find fresh thinking and unique perspectives.</content>
+	</topic>
+	
+	
+</aboutus>

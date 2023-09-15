@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="FAQ.xsl"?>
+<faq>
+	<heading>
+	<topic>Frequently asked Questions</topic>
+	</heading>
+	<doubt>
+		<ques>Can I create a website in another language</ques>
+		<ans>Absolutely. You can change your Site Language, which is the language your readers will experience at your site. You can also change the language you see while working on your site in the dashboard. The language you write on your website is up to you!</ans>
+	</doubt>
+	<doubt>
+		<ques>Will I have to pay for my custom domain</ques>
+		<ans>A free subdomain comes with your account. If you’d like a custom domain, you can add one to your site with the purchase of any WordPress.com plan</ans>
+	</doubt>
+	<doubt>
+		<ques>Can I import content from other device</ques>
+		<ans>It is possible to import your blog content from a variety of other blogging platforms, including Blogger, LiveJournal, Movable Type, Tumblr, Wix, Typepad, Xanga, and more. You can also import your content from a self‑hosted WordPress site.</ans>
+	</doubt>
+	<url>Home</url>
+</faq>
